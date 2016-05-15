@@ -3,9 +3,8 @@ from __future__ import print_function
 import os
 import sys
 
+from run import calc
 
-def calc(i):
-   return i * i
 
 def main():
    """Bootstrap the app"""
